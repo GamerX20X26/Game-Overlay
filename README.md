@@ -1,3 +1,5 @@
+<img width="800" height="500" alt="Screenshot 2026-09-18 185333" src="https://github.com/user-attachments/assets/38edbe3a-0ba2-4b29-b3b8-58b063022966" />
+
 # Game Overlay
 
 A lightweight, controller-friendly Metro-style launcher overlay built with C# and WPF. Designed specifically for living room PCs, couch gaming setups, and handhelds, **Game-Overlay** provides a quick, Xbox Series X-inspired dashboard UI to launch modern games and emulators like **Minecraft** or **xemu** without touching a mouse.
